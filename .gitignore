@@ -24,9 +24,8 @@ __pycache__/
 ehthumbs.db
 Thumbs.db
 
-# Custom output/result files
-postmen.com_results.json
-terminal_results.txt
+# Local output/result files directory
+local_output/
 
 # IDE / Editor specific files
 .vscode/ # Common for VS Code based editors like Cursor
