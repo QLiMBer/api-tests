@@ -1,0 +1,34 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+virtualenv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Custom output/result files
+postmen.com_results.json
+terminal_results.txt
+
+# IDE / Editor specific files
+.vscode/ # Common for VS Code based editors like Cursor
+.cursor-cache/
+.aisnapshot 
